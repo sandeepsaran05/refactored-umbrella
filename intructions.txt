@@ -1,5 +1,1 @@
 Instructions for deploying this site
-
-Installation on IIS
----------------------------
-Content goes here
